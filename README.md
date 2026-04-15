@@ -1,6 +1,6 @@
 # Documentación Legal — Directorio Centralizado
 
-Repositorio público destinado a alojar la documentación legal y técnica de los proyectos de **Vive Coding**.
+Repositorio público destinado a alojar la documentación legal y técnica de los proyectos de **Ismael Ros**.
 
 ## Estructura
 - [**Landing Page**](index.html): Directorio profesional de todos los proyectos.
@@ -10,7 +10,7 @@ Repositorio público destinado a alojar la documentación legal y técnica de lo
 Este repositorio utiliza **GitHub Pages** para servir los documentos. La raíz es un directorio central, y cada proyecto reside en su propia subcarpeta.
 
 ---
-© 2026 Ismael Ros / Vive Coding
+© 2026 Ismael Ros
 
 ---
-© 2026 Ismael Ros / Vive Coding
+© 2026 Ismael Ros
